@@ -1,0 +1,10 @@
+DBMS PROJECT 2016-2017
+useful links:
+
+Design database:
+1)http://stackoverflow.com/questions/490464/how-to-design-a-movie-database
+2)http://stackoverflow.com/questions/20346850/sql-movie-database-diagram
+
+Ideas for extra tables etc (pdf):
+1)http://www.uio.no/studier/emner/matnat/ifi/INF3100/v08/undervisningsmateriale/Filmdatabase-ORM-UML_eng.pdf
+2)http://infolab.stanford.edu/~ullman/dscb/ch2.pdf
