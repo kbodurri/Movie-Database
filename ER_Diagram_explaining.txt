@@ -1,0 +1,30 @@
+% PROJECT FOR CE324 "File Systems and Databases" %
+This project is a small full DBMS(DataBase Management System) about a
+Movie DataBase.
+
+Contributors:
+	% Klainti Bodurri @klainti
+	% Eleftherios P. Loukas @eloukas
+
+Instructor: 
+	% Michael Vassilakopoulos
+
+#Eletrical and Computer Engineering Dept, Volos, Greece, 2016-2017
+#5th Semester
+
+About the 'ER_Diagram'(as you can see in the homonym file) :
+
+We have 4 entities:		1)Movies
+				2)People 
+				3)Roles 
+				4)Genre
+
+There are 2 relationships: 	1)film_people (connecting people with movies and roles)
+				2)film_genre  (connecting movies with genre)
+
+Each entity has its own attributes(oval shapes).
+This also applies to each relationship, that 'adopts' the attributes 
+from its connecting entities.
+
+####more####
+				
