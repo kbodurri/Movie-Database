@@ -1,4 +1,4 @@
-﻿CREATE TABLE People ( 
+CREATE TABLE People ( 
 	birth_date	DATE	NOT NULL,
 	last_name	CHAR(30)	NOT NULL,
 	name	CHAR(30)	NOT NULL,
@@ -11,8 +11,8 @@ CREATE TABLE Roles (
 PRIMARY KEY (role_id) );
 
 CREATE TABLE genre ( 
+	genre_name	VARCHAR(30)	NOT NULL,
 	genre_id	INTEGER	NOT NULL,
-	genre_name	INTEGER	NOT NULL,
 PRIMARY KEY (genre_id) );
 
 CREATE TABLE Movies ( 
