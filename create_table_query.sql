@@ -1,5 +1,4 @@
-﻿
-CREATE TABLE People ( 
+﻿CREATE TABLE People ( 
 	birth_date	DATE	NOT NULL,
 	last_name	CHAR(30)	NOT NULL,
 	name	CHAR(30)	NOT NULL,
