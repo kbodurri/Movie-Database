@@ -23,21 +23,19 @@ CREATE TABLE Movies (
 PRIMARY KEY (movie_id) );
 
 CREATE TABLE film_people ( 
-	FK1_movie_id	INTEGER	NOT NULL,
-	FK2_person_id	INTEGER	NOT NULL,
-	FK3_role_id	INTEGER	NOT NULL,
-        PRIMARY KEY (FK1_movie_id, FK2_person_id, FK3_role_id),
-        FOREIGN KEY (FK1_movie_id) REFERENCES Movies(movie_id),
-        FOREIGN KEY (FK2_person_id) REFERENCES People(person_id),
-        FOREIGN KEY (FK3_role_id) REFERENCES Roles(role_id)
-        ON DELETE CASCADE ON UPDATE CASCADE 
+    role_id INTEGER NOT NULL,
+    person_id INTEGER NOT NULL,
+    movie_id INTEGER NOT NULL,
+    PRIMARY KEY (movie_id, person_id, role_id),
+    FOREIGN KEY (movie_id) REFERENCES Movies (movie_id) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (person_id) REFERENCES People (person_id) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (role_id) REFERENCES Roles (role_id) ON DELETE CASCADE ON UPDATE CASCADE
 );
 
 CREATE TABLE film_genre ( 
-	FK1_movie_id	INTEGER	NOT NULL,
-	FK2_genre_id	INTEGER	NOT NULL,
-        PRIMARY KEY (FK1_movie_id, FK2_genre_id),
-        FOREIGN KEY (FK1_movie_id) REFERENCES Movies(movie_id),
-        FOREIGN KEY (FK2_genre_id) REFERENCES genre(genre_id)
-        ON DELETE CASCADE ON UPDATE CASCADE
+    movie_id INTEGER NOT NULL,
+    genre_id INTEGER NOT NULL,
+    PRIMARY KEY (movie_id, genre_id),
+    FOREIGN KEY (movie_id) REFERENCES Movies (movie_id) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY (genre_id) REFERENCES genre (genre_id) ON DELETE CASCADE ON UPDATE CASCADE
 );
