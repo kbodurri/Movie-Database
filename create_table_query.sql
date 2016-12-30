@@ -11,7 +11,7 @@ CREATE TABLE Roles (
 PRIMARY KEY (role_id) );
 
 CREATE TABLE genre ( 
-	genre_name	VARCHAR(30)	NOT NULL,
+	genre_name	CHAR(30)	NOT NULL,
 	genre_id	SERIAL,
 PRIMARY KEY (genre_id) );
 
