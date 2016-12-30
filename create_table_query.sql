@@ -2,21 +2,21 @@ CREATE TABLE People (
 	birth_date	DATE	NOT NULL,
 	last_name	CHAR(30)	NOT NULL,
 	name	CHAR(30)	NOT NULL,
-	person_id	INTEGER	NOT NULL,
+	person_id	SERIAL,
 PRIMARY KEY (person_id) );
 
 CREATE TABLE Roles ( 
-	role_id	INTEGER	NOT NULL,
+	role_id	SERIAL,
 	role_name	CHAR(30)	NOT NULL,
 PRIMARY KEY (role_id) );
 
 CREATE TABLE genre ( 
 	genre_name	VARCHAR(30)	NOT NULL,
-	genre_id	INTEGER	NOT NULL,
+	genre_id	SERIAL,
 PRIMARY KEY (genre_id) );
 
 CREATE TABLE Movies ( 
-	movie_id	INTEGER	NOT NULL,
+	movie_id	SERIAL,
 	title	CHAR(30)	NOT NULL,
 	rating	REAL	NOT NULL,
 	release_date	DATE	NOT NULL,
