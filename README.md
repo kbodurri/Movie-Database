@@ -46,18 +46,22 @@ _Volos, Greece, 2016-17._
 	
 	* 4c)database_tables.txt 		(--//--)
 	
-	* 5) movie_data_source.dsn 		(File DSN to link databases with Access)
+	* 5)movie_data_source.dsn 		(File DSN to link databases with Access)
 	
 	* 6)access_movie_database.accdb 	(MS Access DataBase File)
 	
-#Wiki-Tutorial about the Database(SUPER HANDY):
+#Wiki-Tutorial about the Database(SUPER SUPER HANDY):
+(We show there the steps on how to use and create/edit a database)
+
 [Wiki Link](https://github.com/Klainti/Movie-Database/wiki/Database-Setup)
 
-#Future Expansions/uses:
+#Future expansions/uses:
 	* Add attributes in movie: language, director, running_time, description_link
 	* Add attributes in people: gender, participations, biography_link
 	* Write VBA Code for full functionality of the relationships and forms-subforms:
 	* If so, it can be used by cinephil persons for their desire
 	Or even by small cinemas so they can provide details for the movies that they are currently showing
+	
+	
 	
 
