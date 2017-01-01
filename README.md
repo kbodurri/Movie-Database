@@ -52,3 +52,12 @@ _Volos, Greece, 2016-17._
 	
 #Wiki-Tutorial about the Database(SUPER HANDY):
 [Wiki Link](https://github.com/Klainti/Movie-Database/wiki/Database-Setup)
+
+#Future Expansions/uses:
+	* Add attributes in movie: language, director, running_time, description_link
+	* Add attributes in people: gender, participations, biography_link
+	* Write VBA Code for full functionality of the relationships and forms-subforms:
+	* If so, it can be used by cinephil persons for their desire
+	Or even by small cinemas so they can provide details for the movies that they are currently showing
+	
+
