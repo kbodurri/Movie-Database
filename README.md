@@ -23,9 +23,9 @@ _Volos, Greece, 2016-17._
 
 #Programs needed:
 
-	1.  PostgreSQL (_and pgAdmin_)
+	1.  PostgreSQL (and pgAdmin)
 
-	2.  ODBC Drivers (_x32/64 if you have x32/64 MS Access_)
+	2.  ODBC Drivers (x32/64 if you have x32/64 MS Access)
 
 	3.  Microsoft Access
 
