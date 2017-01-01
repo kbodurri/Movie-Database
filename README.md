@@ -53,6 +53,7 @@ _Volos, Greece, 2016-17._
 #Wiki-Tutorial about the Database(SUPER SUPER HANDY):
 (We show there the steps on how to use and create/edit a database)
 
+* 
 [Wiki Link](https://github.com/Klainti/Movie-Database/wiki/Database-Setup)
 
 #Future expansions/uses:
@@ -61,6 +62,11 @@ _Volos, Greece, 2016-17._
 	* Write VBA Code for full functionality of the relationships and forms-subforms:
 	* If so, it can be used by cinephil persons for their desire
 	Or even by small cinemas so they can provide details for the movies that they are currently showing
+	
+#Communication
+* [Eleftherios P. Loukas](https://github.com/eloukas) - eleftheriosloukas@gmail.com
+
+* [Klainti Bodurri](https://github.com/klainti) - kbontourri@gmail.com
 	
 	
 	
