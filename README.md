@@ -50,3 +50,5 @@ _Volos, Greece, 2016-17._
 	
 	* 6)access_movie_database.accdb 	(MS Access DataBase File)
 	
+#Wiki-Tutorial about the Database:
+	https://github.com/Klainti/Movie-Database/wiki/Database-Setup
