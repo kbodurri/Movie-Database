@@ -42,10 +42,6 @@ _Volos, Greece, 2016-17._
 	
 	* 4a)create_table_query.sql		(PostgreSQL Code used-opened by pgAdmin for init)
 	
-	* 4b)er2sql_file.erx			(--//--)
-	
-	* 4c)database_tables.txt 		(--//--)
-	
 	* 5)movie_data_source.dsn 		(File DSN to link databases with Access)
 	
 	* 6)access_movie_database.accdb 	(MS Access DataBase File)
