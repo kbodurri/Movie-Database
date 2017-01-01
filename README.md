@@ -15,7 +15,7 @@ Instructor:
 
 	% Michael Vassilakopoulos
 
-#_Electrical and Computer Engineering Dept_
+_Electrical and Computer Engineering Dept_
 _Volos, Greece, 2016-17._
 
 Programs needed:
