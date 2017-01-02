@@ -29,7 +29,7 @@ _Volos, Greece, 2016-17._
 
 	3.  Microsoft Access
 
-#Files list and usage:
+#Files list/usage:
 	* 0a)Essential_Project_DBMS_2016	(clarification of the project given by our instructor)
 	
 	* 0b)README.md				(readme/report for project's github url and our instructor)
