@@ -9,19 +9,19 @@ _Volos, Greece, 2016-17._
 
 
 
-#Contributors:
+# Contributors:
 
 	% Klainti Bodurri @klainti
 	
 	% Eleftherios P. Loukas @eloukas
 
-#Instructor: 
+# Instructor: 
 
 	% Michael Vassilakopoulos
 
 
 
-#Programs needed:
+# Programs needed:
 
 	1.  PostgreSQL (and pgAdmin)
 
@@ -29,7 +29,7 @@ _Volos, Greece, 2016-17._
 
 	3.  Microsoft Access
 
-#Files list/usage:
+# Files list/usage:
 	* 0a)Essential_Project_DBMS_2016	(clarification of the project given by our instructor)
 	
 	* 0b)README.md				(readme/report for project's github url and our instructor)
@@ -46,20 +46,20 @@ _Volos, Greece, 2016-17._
 	
 	* 6)access_movie_database.accdb 	(MS Access DataBase File)
 	
-#Wiki-Tutorial about the Database(SUPER SUPER HANDY):
+# Wiki-Tutorial about the Database(SUPER SUPER HANDY):
 (We show there the steps on how to use and create/edit a database)
 
 * 
 [Wiki Link](https://github.com/Klainti/Movie-Database/wiki/Database-Setup)
 
-#Future expansions/uses:
+# Future expansions/uses:
 	* Add attributes in movie: language, director, running_time, description_link
 	* Add attributes in people: gender, participations, biography_link
 	* Write VBA Code for full functionality of the relationships and forms-subforms:
 	* If so, it can be used by cinephil persons for their desire
 	Or even by small cinemas so they can provide details for the movies that they are currently showing
 	
-#Communication
+# Communication
 * [Eleftherios P. Loukas](https://github.com/eloukas) - eleftheriosloukas@gmail.com
 
 * [Klainti Bodurri](https://github.com/klainti) - kbontourri@gmail.com
