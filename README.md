@@ -49,8 +49,7 @@ _Volos, Greece, 2016-17._
 # Wiki-Tutorial about the Database(SUPER SUPER HANDY):
 (We show there the steps on how to use and create/edit a database)
 
-* 
-[Wiki Link](https://github.com/Klainti/Movie-Database/wiki/Database-Setup)
+* [Wiki Link](https://github.com/Klainti/Movie-Database/wiki/Database-Setup)
 
 # Future expansions/uses:
 	* Add attributes in movie: language, director, running_time, description_link
